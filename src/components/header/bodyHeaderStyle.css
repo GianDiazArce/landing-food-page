@@ -1,0 +1,10 @@
+.imgContainer {
+    display: flex;
+    width: '100%';
+    height: 619px;
+    justify-content: flex-start;
+    align-items: center;
+}
+.dividerLine {
+    bottom: 0;
+}
